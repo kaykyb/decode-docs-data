@@ -29,7 +29,7 @@ ReactDOM.render(
 
 When you save and reload your app, you should be redirected to the Decode login page:
 
-![Decode login page](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5442b18c-5b08-4f38-a6a9-878cb7875063%2FScreen_Shot_2020-06-10_at_5.00.52_PM.png?table=block&id=4ec337c9-b2e6-4872-af06-46159961d844&width=960&userId=&cache=v2)
+![Decode login page](./assets/decode-test-img.png)
 
 Logging in and being redirected back to your app should just work. If it doesn't [please let us know](https://www.notion.so/usedecode/Getting-Started-f1cb96c98c864d7abf65f43ec6630ae5#8ae36e94f4274be7977275c578e6f7a7)!
 
