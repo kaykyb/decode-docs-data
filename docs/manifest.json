@@ -20,11 +20,11 @@
               "routes": [
                 {
                   "title": "useDecode",
-                  "path": "/docs/reference/client-side-sdk/queries-and-resources.md"
+                  "path": "/docs/reference/client-side-sdk/usedecode.md"
                 },
                 {
                   "title": "useFetcher",
-                  "path": "/docs/reference/client-side-sdk/queries-and-resources.md"
+                  "path": "/docs/reference/client-side-sdk/usefetcher.md"
                 }
               ]
             },
