@@ -1,4 +1,4 @@
-## Errors & Debugging
+# Errors & Debugging
 
 A Decode error response looks like this:
 

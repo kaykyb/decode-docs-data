@@ -1,4 +1,4 @@
-## Variables
+# Variables
 
 You can use variables in both database and HTTP queries.
 
