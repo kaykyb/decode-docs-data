@@ -10,7 +10,6 @@
         },
         {
           "title": "API Reference",
-          "heading": true,
           "routes": [
             {
               "title": "Queries and Resources",
@@ -18,7 +17,6 @@
             },
             {
               "title": "Client-side SDK",
-              "heading": true,
               "routes": [
                 {
                   "title": "useDecode",
