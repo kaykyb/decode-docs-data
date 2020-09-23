@@ -1,6 +1,6 @@
 ## Using Decode without `useDecode`
 
-If you do use any of the strategies below, [we'd definitely love to hear why](mailto:founders@usedecode.com).
+If you do use any of the strategies below, [we'd definitely love to hear why](../contact).
 
 If you'd prefer to make requests without using `useDecode`, you have a few options:
 

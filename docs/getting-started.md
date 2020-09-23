@@ -31,9 +31,9 @@ When you save and reload your app, you should be redirected to the Decode login 
 
 ![Decode login page](./assets/decode-login.png)
 
-Logging in and being redirected back to your app should just work. If it doesn't [please let us know](https://www.notion.so/usedecode/Getting-Started-f1cb96c98c864d7abf65f43ec6630ae5#8ae36e94f4274be7977275c578e6f7a7)!
+Logging in and being redirected back to your app should just work. If it doesn't [please let us know](./contact)!
 
-> Want to add users to your org for multiple login? Just [let us know](https://www.notion.so/usedecode/Getting-Started-f1cb96c98c864d7abf65f43ec6630ae5#8ae36e94f4274be7977275c578e6f7a7)!<br><br>
+> Want to add users to your org for multiple login? Just [let us know](./contact)!<br><br>
 > Branded login pages coming soon. If you want an early peek, let us know.
 
 **Using `useDecode`**
