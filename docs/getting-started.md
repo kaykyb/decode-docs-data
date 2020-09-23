@@ -29,7 +29,7 @@ ReactDOM.render(
 
 When you save and reload your app, you should be redirected to the Decode login page:
 
-![Decode login page](./assets/decode-test-img.png)
+![Decode login page](./assets/decode-login.png)
 
 Logging in and being redirected back to your app should just work. If it doesn't [please let us know](https://www.notion.so/usedecode/Getting-Started-f1cb96c98c864d7abf65f43ec6630ae5#8ae36e94f4274be7977275c578e6f7a7)!
 
@@ -59,7 +59,7 @@ const App = () => {
 
 Last step is to add your query to Decode. Perhaps you want it to be a SQL query against a Postgres database, like this:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04047692-04db-4fb8-8e14-4df5622df231/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04047692-04db-4fb8-8e14-4df5622df231/Untitled.png)
+![Decode dashboard](./assets/decode-dashboard.png)
 
 Under **Endpoint,** we specify the new API endpoint that will be created on Decode. Note we're using the same slug used in the front-end, `listUsers`. We don't need to worry about the rest of the URL because the client-side SDK resolves that for us.
 

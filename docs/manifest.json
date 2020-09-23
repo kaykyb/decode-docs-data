@@ -7,6 +7,38 @@
         {
           "title": "Getting Started",
           "path": "/docs/getting-started.md"
+        },
+        {
+          "title": "API Reference",
+          "heading": true,
+          "routes": [
+            {
+              "title": "Queries and Resources",
+              "path": "/docs/reference/queries-and-resources.md"
+            },
+            {
+              "title": "Client-side SDK",
+              "heading": true,
+              "routes": [
+                {
+                  "title": "useDecode",
+                  "path": "/docs/reference/client-side-sdk/queries-and-resources.md"
+                },
+                {
+                  "title": "useFetcher",
+                  "path": "/docs/reference/client-side-sdk/queries-and-resources.md"
+                }
+              ]
+            },
+            {
+              "title": "Variables",
+              "path": "/docs/reference/variables.md"
+            },
+            {
+              "title": "Errors and Debugging",
+              "path": "/docs/reference/errors-and-debugging.md"
+            }
+          ]
         }
       ]
     }
